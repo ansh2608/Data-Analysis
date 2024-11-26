@@ -30,7 +30,7 @@ This project explores and analyzes hotel booking data using **Microsoft Excel**,
 ## Visualizations
 Here’s an example of the insights generated during the analysis:
 
-![Visualization](https://github.com/ansh2608/Data-Analysis/blob/main/Hotel%20Bookings.png?raw=true)) <!-- Replace with your visualization image -->
+![Visualization](https://github.com/ansh2608/Data-Analysis/blob/main/Hotel%20Bookings.png?raw=true) <!-- Replace with your visualization image -->
 
 ---
 
